@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QASite.Web", "QASite.Web\QASite.Web.csproj", "{A70F54C7-62E5-4DFE-B902-F9D3688F44E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QASite.Data", "QASite.Data\QASite.Data.csproj", "{A943F180-D58B-4F53-9048-6235250EFBA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A70F54C7-62E5-4DFE-B902-F9D3688F44E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70F54C7-62E5-4DFE-B902-F9D3688F44E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70F54C7-62E5-4DFE-B902-F9D3688F44E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70F54C7-62E5-4DFE-B902-F9D3688F44E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A943F180-D58B-4F53-9048-6235250EFBA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A943F180-D58B-4F53-9048-6235250EFBA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A943F180-D58B-4F53-9048-6235250EFBA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A943F180-D58B-4F53-9048-6235250EFBA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB271D06-F1A7-4451-B21F-E4E413ACE79A}
+	EndGlobalSection
+EndGlobal
